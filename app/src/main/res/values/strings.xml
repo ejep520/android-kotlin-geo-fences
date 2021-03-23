@@ -38,6 +38,7 @@
     <string name="geofence_over">You have found the treasure! Congratulations!</string>
 
     <!-- Geofence Hints -->
+    <!--suppress CheckTagEmptyBody -->
     <string name="not_started_hint"></string>
     <string name="golden_gate_bridge_hint">Go to a bridge with a name that does not match the color that it is!</string>
     <string name="ferry_building_hint">Go to a market with an amazing assortment of delicious foods. It is a San Francisco classic!</string>
